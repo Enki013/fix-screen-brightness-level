@@ -5,7 +5,7 @@ fix screen brightness level on lineageOS and other roms
 
 -apktool
 
--pc or laptop
+-pc
 
 -framework-res.apk
 
